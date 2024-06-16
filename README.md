@@ -27,7 +27,6 @@ Customers use MarzBakes to browse, order, and manage their bakery purchases seam
 
 - **Frontend:** Flutter
 - **Backend:** Firebase
-- 
 
 ## Getting Started
 
