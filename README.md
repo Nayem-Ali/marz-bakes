@@ -35,6 +35,6 @@ To set up MarzBakes locally or deploy it to a server:
 
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory: `cd marzbakes`
-3. Install dependencies: `pub get` 
+3. Install dependencies: `flutter pub get` 
 4. Set up environment variables for configuration (database connection).
 
